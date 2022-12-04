@@ -1,5 +1,5 @@
 # /Dockerfile
-FROM node:12-alpine as builder
+FROM node:latest as builder
 WORKDIR /project
 COPY . /project/
 RUN yarn config set registry https://registry.npm.taobao.org
