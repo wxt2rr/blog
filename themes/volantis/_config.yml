@@ -569,10 +569,10 @@ sidebar:
         - icon: fa-solid fa-rss
           url: /atom.xml
         - icon: fa-solid fa-envelope
-          url: mailto:me@xxx.com
+          url: mailto:1471520488@qq.com
         - icon: fab fa-github
-          url: https://github.com/volantis-x/
-        - icon: fa-solid fa-headphones-alt
+          url: https://github.com/wxt2rr
+        - icon: fa-solid fa-blog
           url: /
     # ---------------------------------------
     # toc widget (valid only in articles)
