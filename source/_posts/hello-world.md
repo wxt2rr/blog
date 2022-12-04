@@ -1,38 +1,23 @@
 ---
-title: Hello World
+title: Hexo文章Front-matter示例
+date: 2022-01-01 00:00:00
+updated: 2022-01-01 00:00:01
+
+seo_title: 这是seo标题
+keywords: 测试 关键词 展示
+description: 这是测试hexo的文章格式页面
+
+pin: false
+archive: false
+
+references:
+  - title: 某篇文章1
+    url: https://aaa.com
+  - title: 某篇文章2
+    url: https://bbb.com
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+这是摘要
+<!-- more -->
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+这是正文
